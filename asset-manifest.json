@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github-form/static/css/main.954b84b6.css",
+    "main.js": "/github-form/static/js/main.68280e93.js",
+    "static/js/592.bf241d01.chunk.js": "/github-form/static/js/592.bf241d01.chunk.js",
+    "static/media/logo.svg": "/github-form/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/github-form/index.html",
+    "main.954b84b6.css.map": "/github-form/static/css/main.954b84b6.css.map",
+    "main.68280e93.js.map": "/github-form/static/js/main.68280e93.js.map",
+    "592.bf241d01.chunk.js.map": "/github-form/static/js/592.bf241d01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.954b84b6.css",
+    "static/js/main.68280e93.js"
+  ]
+}
